@@ -14,10 +14,10 @@ Predicting churn. Quantifying revenue risk. Driving retention decisions.
 💡 Solution
 
 Built an end-to-end analytics system to:
-
 Predict customer churn
 Calculate Customer Lifetime Value (CLV)
 Identify revenue at risk
+
 🛠️ Tech Stack
 SQL (MySQL)
 Python (Pandas, Scikit-learn)
