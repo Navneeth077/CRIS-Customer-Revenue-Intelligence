@@ -1,0 +1,57 @@
+
+╔══════════════════════════════════════════════════════════╗
+          📊 EDA INSIGHTS SUMMARY
+          Customer Revenue Intelligence System
+╚══════════════════════════════════════════════════════════╝
+
+📦 DATASET OVERVIEW
+───────────────────────────────────────────
+Total Customers     : 93,342
+Total Orders        : 96,461
+Total Revenue       : BRL 15,419,682.85
+Avg Order Value     : BRL 153.07
+Avg Revenue/Customer: BRL 165.20
+Date Range          : 2016-09-15 to 2018-08-29
+
+👥 CUSTOMER BEHAVIOR
+───────────────────────────────────────────
+One-time Buyers     : 87,879
+Repeat Buyers       : 5,463
+One-time Buyer %    : 94.15%
+
+💰 REVENUE SEGMENTS
+───────────────────────────────────────────
+segment
+Medium     45832
+Low        43245
+High        3116
+Premium     1149
+
+🌍 TOP 3 STATES BY REVENUE
+───────────────────────────────────────────
+customer_state
+SP    5768355.09
+RJ    2055878.41
+MG    1819029.99
+
+💳 PAYMENT TYPE DISTRIBUTION
+───────────────────────────────────────────
+payment_type
+credit_card    74584
+boleto         19177
+voucher         5493
+debit_card      1485
+
+🔑 KEY BUSINESS INSIGHTS
+───────────────────────────────────────────
+1. 94.1% customers are one-time buyers
+   → High churn risk, retention strategy is critical
+
+2. Revenue is geographically concentrated
+   → Top 3 states drive majority of revenue
+
+3. Credit card is dominant payment method
+   → Installment patterns affect CLV calculation
+
+4. Premium + High segment customers are minority
+   → Losing them = maximum Revenue at Risk

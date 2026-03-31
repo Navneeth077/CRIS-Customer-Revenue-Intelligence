@@ -1,0 +1,9 @@
+"*.csv" 
+"*.pbix" 
+"*.xlsx" 
+*.csv 
+*.pbix 
+*.xlsx 
+*.ipynb 
+Data/ 
+Model/ 
